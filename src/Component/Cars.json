@@ -1,0 +1,49 @@
+
+[
+    { "id": 1, 
+    "model": "BMW i7 M70 xDrive", 
+    "image": "/images/car1.webp", 
+    "pricePerDay": 1500 },
+
+    { "id": 2,
+     "model": "Tata Nexon", 
+     "image": "/images/car2.webp", 
+     "pricePerDay": 1700 },
+
+    { "id": 3, 
+    "model": "Hyundai Creta", 
+    "image": "/images/car3.webp", 
+    "pricePerDay": 1900 },
+
+    { "id": 4, 
+    "model": "Maruti Brezza", 
+    "image": "/images/car4.webp", 
+    "pricePerDay": 1990 },
+
+    { "id": 5, 
+    "model": "Toyota Fortuner", 
+    "image": "/images/car5.webp", 
+    "pricePerDay": 2290 },
+
+    { "id": 6, 
+    "model": "Mahindra XUV700", 
+    "image": "/images/car6.webp", 
+    "pricePerDay": 2990 },
+
+    { "id": 7, 
+    "model": "Toyota Land Cruiser", 
+    "image": "/images/car7.webp", 
+    "pricePerDay": 2090 },
+
+    { "id": 8, 
+    "model": "Land Rover Defender", 
+    "image": "/images/car8.webp", 
+    "pricePerDay": 3990 },
+
+    { "id": 9, 
+    "model": "Hyundai Tucson", 
+    "image": "/images/car9.webp", 
+    "pricePerDay": 2590 }
+   
+  ]
+  
